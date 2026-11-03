@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f5f6;
+    margin: 0;
+}
+
+.contenitore {
+    max-width: 360px;
+    margin: 80px auto;
+    padding: 24px;
+    background: #ffffff;
+    border: 1px solid #d6dde3;
+}
+
+label {
+    display: block;
+    margin-top: 12px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+}
+
+button {
+    margin-top: 16px;
+    padding: 8px 16px;
+}
+
+.errore {
+    color: #9b2c2c;
+}
