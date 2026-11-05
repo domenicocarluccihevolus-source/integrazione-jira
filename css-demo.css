@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f4f8;
+  margin: 0;
+}
+
+.pagina {
+  display: flex;
+  justify-content: center;
+  padding: 60px;
+}
+
+.sceda {
+  background: #ffffff;
+  padding: 32px 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  max-width: 360px;
+  text-align: center;
+}
+
+.bottone {
+  display: inline-block;
+  background: #1f4e8c;
+  color: #ffffff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+}
